@@ -1,0 +1,5 @@
+How many months have 28 days?
+a. 2
+b. 1
+c. All of them
+d. Depends if there's a leap year or not.
